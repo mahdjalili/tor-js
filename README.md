@@ -84,4 +84,4 @@ This is a simplified implementation for educational purposes. It lacks many secu
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
